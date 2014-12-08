@@ -19,7 +19,3 @@ puts b
 
 p a
 
-
-# if initial.is_a?(Symbol)
-# 	1.send(:+, 1)
-
